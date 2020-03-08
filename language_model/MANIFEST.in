@@ -1,0 +1,2 @@
+recursive-include spellcorrector *.txt *.py *.p *.pkl *.csv *.txt *.model
+recursive-include word2vec *.txt *.py *.p *.pkl *.csv *.txt *.model
