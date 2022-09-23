@@ -40,7 +40,7 @@ mccabe==0.6.1
 nltk==3.3
 numpy==1.17.0
 pandas==0.23.0
-protobuf==3.9.0
+protobuf==3.18.3
 pycparser==2.18
 pycrypto==2.6.1
 pylint==2.3.1
